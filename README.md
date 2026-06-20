@@ -6,6 +6,9 @@ This guide shows how to unlock the bootloader while providing the files to do it
 > Only Support Oneplus 7 GM1901 India
 >
 > Do not use Windows VM... Use Windows To Go instead.
+>
+
+> This will void you warranty and may brick your phone which will require the MSM tool to bring it back! Owner not responsible!
 
 # Introduction
 
