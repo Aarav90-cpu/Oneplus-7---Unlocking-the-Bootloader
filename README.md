@@ -3,7 +3,7 @@ This guide shows how to unlock the bootloader while providing the files to do it
 
 `<WRITTEN BY A HUMAN>`
 
-> Only Support Oneplus 7
+> Only Support Oneplus 7 GM1901 India
 >
 > Do not use Windows VM... Use Windows To Go instead.
 
@@ -31,7 +31,7 @@ Now you phone is in edl mode! (Emergency Download or you can say out time machin
 
 First of all we need to degrade the OS Version to Android 10 (Oxygen OS 10)
 
-For that we will use the MSM Download tool on Windows which you will have if you clone the repo which you have to do first!
+For that we will use the MSM Download tool on Windows which you can get here: [Oneplus 7 Android 10 Global MSM Download Tool](https://onepluscommunityserver.com/list/Unbrick_Tools/OnePlus_7/Global_GM57AA/Q/)
 
  - Open MSM Download Tool ( I will call it MSM ).
 
@@ -60,6 +60,10 @@ And bam your bootloader is unlocked.
 # Going back to Android 12 with a unlocked bootloader
 
 Now that you have unlocked the bootloader but Lineage OS needs Android 12 of the stock os or any other custom rom requires it or you want to be on the latest version?
+
+ - Download the Oneplus 7 Androdi 12 image using `wget https://gauss-componentotacostmanual-sg.allawnofs.com/remove-a18a7791749540442f5e336b766543cd/component-ota/22/09/23/1618b4579915442d90e5d7115221e1f0.zip`
+
+ - For your convinence rename 1618b4579915442d90e5d7115221e1f0.zip to Android12.zip
 
  - Boot back into fastboot
 
